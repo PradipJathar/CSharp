@@ -52,6 +52,33 @@ namespace ReferenceTypesAndValueTypes
             // They are allocated explicitly using new or implicitly when an object is created.
             // This is typically handled by the garbage collector, which automatically reclaims memory from objects that are no longer reachable.
 
+
+
+            // One More Example:
+
+            int number = 1;
+            Increment(number);                          // int number is value type it will not modify its value after visting Increment method.
+            Console.WriteLine(number);
+
+            Person person = new Person() { Age = 20 };
+            MakeOld(person);                            // class person is reference type it will modify its value after visting MakeOld method.
+            Console.WriteLine(person.Age);
+
         }
+
+        public static void Increment(int number)
+        {
+            number += 10;
+        }
+
+        public static void MakeOld(Person person)
+        {
+            person.Age += 10;
+        }
+    }
+
+    public class Person
+    {
+        public int Age { get; set; }
     }
 }

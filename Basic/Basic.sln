@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conditionals", "Conditional
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConditionalsExercise", "ConditionalsExercise\ConditionalsExercise.csproj", "{97736254-1141-456F-BEF3-A5B38B9E0BA0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iterations", "Iterations\Iterations.csproj", "{B10DCFD4-07A6-4231-AFB6-71DEEE4E5535}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{97736254-1141-456F-BEF3-A5B38B9E0BA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{97736254-1141-456F-BEF3-A5B38B9E0BA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{97736254-1141-456F-BEF3-A5B38B9E0BA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B10DCFD4-07A6-4231-AFB6-71DEEE4E5535}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B10DCFD4-07A6-4231-AFB6-71DEEE4E5535}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B10DCFD4-07A6-4231-AFB6-71DEEE4E5535}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B10DCFD4-07A6-4231-AFB6-71DEEE4E5535}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

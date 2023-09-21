@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iterations", "Iterations\It
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IterationsExercise", "IterationsExercise\IterationsExercise.csproj", "{AD089F42-E4F2-483C-9B4A-E3A920BFCEE9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayPropertiesAndMethods", "ArrayPropertiesAndMethods\ArrayPropertiesAndMethods.csproj", "{AD06FE25-2555-4525-802A-36C9F59B2085}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{AD089F42-E4F2-483C-9B4A-E3A920BFCEE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD089F42-E4F2-483C-9B4A-E3A920BFCEE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD089F42-E4F2-483C-9B4A-E3A920BFCEE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD06FE25-2555-4525-802A-36C9F59B2085}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD06FE25-2555-4525-802A-36C9F59B2085}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD06FE25-2555-4525-802A-36C9F59B2085}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD06FE25-2555-4525-802A-36C9F59B2085}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

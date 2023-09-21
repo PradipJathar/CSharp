@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IterationsExercise", "Itera
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayPropertiesAndMethods", "ArrayPropertiesAndMethods\ArrayPropertiesAndMethods.csproj", "{AD06FE25-2555-4525-802A-36C9F59B2085}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListPropertiesAndMethods", "ListPropertiesAndMethods\ListPropertiesAndMethods.csproj", "{6590710E-679C-4E6A-B1EE-1DC98D0CD898}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{AD06FE25-2555-4525-802A-36C9F59B2085}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD06FE25-2555-4525-802A-36C9F59B2085}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD06FE25-2555-4525-802A-36C9F59B2085}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6590710E-679C-4E6A-B1EE-1DC98D0CD898}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6590710E-679C-4E6A-B1EE-1DC98D0CD898}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6590710E-679C-4E6A-B1EE-1DC98D0CD898}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6590710E-679C-4E6A-B1EE-1DC98D0CD898}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

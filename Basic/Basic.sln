@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringAndStringBuilderExerc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithFiles", "WorkingWithFiles\WorkingWithFiles.csproj", "{BCBB14DF-2F09-4970-836A-31B7C7B0D2A7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkingWithFilesExercise", "WorkingWithFilesExercise\WorkingWithFilesExercise.csproj", "{C510B091-C4A5-4E0B-ABC1-36AE2121939F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{BCBB14DF-2F09-4970-836A-31B7C7B0D2A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BCBB14DF-2F09-4970-836A-31B7C7B0D2A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BCBB14DF-2F09-4970-836A-31B7C7B0D2A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C510B091-C4A5-4E0B-ABC1-36AE2121939F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C510B091-C4A5-4E0B-ABC1-36AE2121939F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C510B091-C4A5-4E0B-ABC1-36AE2121939F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C510B091-C4A5-4E0B-ABC1-36AE2121939F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

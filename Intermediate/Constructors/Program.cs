@@ -29,6 +29,17 @@ namespace Constructors
             customer2.Orders.Add(order);
             Console.WriteLine($"Id: {customer2.Id}");
             Console.WriteLine($"Name: {customer2.Name}");
+
+
+            // Creating object of class using Constructor with Object Initializers.
+            Customer customer3 = new Customer
+                                    {
+                                        Id = 3, 
+                                        Name = "Abhi" 
+                                    };
+            customer3.Orders.Add(order);
+            Console.WriteLine($"Id: {customer3.Id}");
+            Console.WriteLine($"Name: {customer3.Name}");
         }
     }
 }

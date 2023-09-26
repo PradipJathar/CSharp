@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassesExerciseStackOverflo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassesAssociation_Inheritance", "ClassesAssociation_Inheritance\ClassesAssociation_Inheritance.csproj", "{F2C44347-D327-4767-992F-14F72C85C23C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassesAssociation_Composition", "ClassesAssociation_Composition\ClassesAssociation_Composition.csproj", "{38AD09E2-273C-4B72-8207-A6D14621B79D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{F2C44347-D327-4767-992F-14F72C85C23C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2C44347-D327-4767-992F-14F72C85C23C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2C44347-D327-4767-992F-14F72C85C23C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38AD09E2-273C-4B72-8207-A6D14621B79D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38AD09E2-273C-4B72-8207-A6D14621B79D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38AD09E2-273C-4B72-8207-A6D14621B79D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38AD09E2-273C-4B72-8207-A6D14621B79D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

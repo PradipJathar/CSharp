@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassesExerciseStopwatch", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassesExerciseStackOverflowPost", "ClassesExerciseStackOverflowPost\ClassesExerciseStackOverflowPost.csproj", "{48F0845C-5429-43A0-AD7A-0D03C65FC573}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassesAssociation_Inheritance", "ClassesAssociation_Inheritance\ClassesAssociation_Inheritance.csproj", "{F2C44347-D327-4767-992F-14F72C85C23C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{48F0845C-5429-43A0-AD7A-0D03C65FC573}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{48F0845C-5429-43A0-AD7A-0D03C65FC573}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{48F0845C-5429-43A0-AD7A-0D03C65FC573}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2C44347-D327-4767-992F-14F72C85C23C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2C44347-D327-4767-992F-14F72C85C23C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2C44347-D327-4767-992F-14F72C85C23C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2C44347-D327-4767-992F-14F72C85C23C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

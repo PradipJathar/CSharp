@@ -11,7 +11,9 @@ namespace AccessModifiersAndProperties
             this.Birtdate = birthdate;
         }
 
-        public int Age 
+
+        // Internal - Accessible only in the same assembly.
+        internal int Age 
         { 
             get 
             {

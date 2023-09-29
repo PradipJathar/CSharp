@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciseDesignStack", "Exer
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorphism_MethodOverriding", "Polymorphism_MethodOverriding\Polymorphism_MethodOverriding.csproj", "{3D818E73-2F31-443B-88D4-E0F703229A94}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractClasses", "AbstractClasses\AbstractClasses.csproj", "{41EEE5BE-DFFF-478B-9940-DB1A10764D90}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{3D818E73-2F31-443B-88D4-E0F703229A94}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3D818E73-2F31-443B-88D4-E0F703229A94}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3D818E73-2F31-443B-88D4-E0F703229A94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41EEE5BE-DFFF-478B-9940-DB1A10764D90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41EEE5BE-DFFF-478B-9940-DB1A10764D90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41EEE5BE-DFFF-478B-9940-DB1A10764D90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41EEE5BE-DFFF-478B-9940-DB1A10764D90}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

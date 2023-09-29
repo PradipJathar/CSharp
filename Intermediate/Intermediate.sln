@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoxingAndUnboxing", "Boxing
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciseDesignStack", "ExerciseDesignStack\ExerciseDesignStack.csproj", "{24E7A8F6-E1B5-4496-8B0F-062EB39BAB5E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorphism_MethodOverriding", "Polymorphism_MethodOverriding\Polymorphism_MethodOverriding.csproj", "{3D818E73-2F31-443B-88D4-E0F703229A94}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{24E7A8F6-E1B5-4496-8B0F-062EB39BAB5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{24E7A8F6-E1B5-4496-8B0F-062EB39BAB5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{24E7A8F6-E1B5-4496-8B0F-062EB39BAB5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D818E73-2F31-443B-88D4-E0F703229A94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D818E73-2F31-443B-88D4-E0F703229A94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D818E73-2F31-443B-88D4-E0F703229A94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D818E73-2F31-443B-88D4-E0F703229A94}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

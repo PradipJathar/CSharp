@@ -56,9 +56,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Testability\Testability.csproj">
+    <ProjectReference Include="..\Testability\InterfacesAndTestability.csproj">
       <Project>{7d0a2c4b-1dae-4948-80d7-cfb6de6f0341}</Project>
-      <Name>Testability</Name>
+      <Name>InterfacesAndTestability</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />

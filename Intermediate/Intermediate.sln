@@ -39,9 +39,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SealedClasses", "SealedClas
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciseDesignDatabaseConnectionAndCommand", "ExerciseDesignDatabaseConnectionAndCommand\ExerciseDesignDatabaseConnectionAndCommand.csproj", "{4CAAE5BF-645A-4BA6-8968-A8D500F0CFAA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testability", "Testability\Testability.csproj", "{7D0A2C4B-1DAE-4948-80D7-CFB6DE6F0341}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfacesAndTestability", "Testability\InterfacesAndTestability.csproj", "{7D0A2C4B-1DAE-4948-80D7-CFB6DE6F0341}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testability.UnitTests", "Testability.UnitTests\Testability.UnitTests.csproj", "{CCEE52E5-526C-43AB-8609-505784E9A16B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfacesAndTestability.UnitTests", "Testability.UnitTests\InterfacesAndTestability.UnitTests.csproj", "{CCEE52E5-526C-43AB-8609-505784E9A16B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

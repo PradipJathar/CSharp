@@ -3,8 +3,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace InterfacesAndPolymorphism
-{
-    public
+{    
     class Program
     {
         static void Main(string[] args)

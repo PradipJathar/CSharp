@@ -45,6 +45,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfacesAndTestability.Un
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfacesAndExtensibility", "InterfacesAndExtensibility\InterfacesAndExtensibility.csproj", "{CCE12B77-B7E8-4645-8AD3-0F66AF0B5A56}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfacesAreNotForMultipleInheritance", "InterfacesAreNotForMultipleInheritance\InterfacesAreNotForMultipleInheritance.csproj", "{70E1C039-F4C6-4E97-BFEF-3635B6C513DA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -135,6 +137,10 @@ Global
 		{CCE12B77-B7E8-4645-8AD3-0F66AF0B5A56}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CCE12B77-B7E8-4645-8AD3-0F66AF0B5A56}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CCE12B77-B7E8-4645-8AD3-0F66AF0B5A56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70E1C039-F4C6-4E97-BFEF-3635B6C513DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70E1C039-F4C6-4E97-BFEF-3635B6C513DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70E1C039-F4C6-4E97-BFEF-3635B6C513DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70E1C039-F4C6-4E97-BFEF-3635B6C513DA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

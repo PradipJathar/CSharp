@@ -4,42 +4,35 @@ namespace ClassesExerciseStopwatch
 {
     public class Stopwatch
     {
-        private DateTime? startTime;
-        private DateTime? stopTime;
-        private bool isRunning;
+        private DateTime _startTime;
+        private DateTime _stopTime;
+        private bool _isRunning;
 
         public void Start()
         {
-            if (isRunning)
+            if (_isRunning)
             {
                 throw new InvalidOperationException("Stopwatch is already running.");
             }
 
-            startTime = DateTime.Now;
-            isRunning = true;
+            _startTime = DateTime.Now;
+            _isRunning = true;
         }
 
         public void Stop()
         {
-            if (!isRunning)
+            if (!_isRunning)
             {
                 throw new InvalidOperationException("Stopwatch is not running.");
             }
 
-            stopTime = DateTime.Now;
-            isRunning = false;
+            _stopTime = DateTime.Now;
+            _isRunning = false;
         }
 
         public TimeSpan? GetDuration()
         {
-            if (startTime.HasValue && stopTime.HasValue)
-            {
-                return stopTime.Value - startTime.Value;
-            }
-            else
-            {
-                return null;
-            }
+            return _stopTime - _startTime;
         }
     }
 }
